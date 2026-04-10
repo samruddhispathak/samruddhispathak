@@ -10,16 +10,15 @@
 ---
 
 ## 🙋‍♀️ About Me
-
-```python
-samruddhi = {
-    "education"   : "MSc Business Analytics — Aston University, Birmingham 🎓",
-    "focus"       : "HR Analytics", "Workforce Analytics", "Predictive Modelling",
-    "passion"     : "Turning people data into strategic decisions 📊",
-    "exploring"   : "Projects at the intersection of HR & Data Science 🛠️",
-    "open_to"     : "HR & Analytics roles in UAE 🇦🇪 | Saudi Arabia 🇸🇦 | Qatar 🇶🇦 | Middle East 🌍",
-    "currently"   : "Building my portfolio & sharpening my data skills 🚀",
-}
+<div align="center">
+🎓 Education📊 Focus🌍 Open ToMSc Business AnalyticsHR Analytics · Workforce AnalyticsUAE · Saudi Arabia · QatarAston University, BirminghamPredictive Modelling · Data Visualisation& across the Middle East
+</div>
+<br/>
+<div align="center">
+🔥   Passionate about turning people data into strategic decisions   🔥
+🛠️   Exploring projects at the intersection of HR & Data Science
+🚀   Currently building my portfolio & sharpening my data skills
+</div>
 ```
 
 ---
