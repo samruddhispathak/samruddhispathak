@@ -9,7 +9,7 @@
 
 ---
 
-## 🙋‍♀️About Me
+## 🙋‍♀️ About Me
 
 <div align="center">
 
@@ -76,23 +76,28 @@
 
 ## 🚀 Projects
 
-> 🔨 *Portfolio projects coming soon — watch this space!*
+<div align="center">
 
-| Project | Description | Tools Used |
-|--------|-------------|------------|
-| 🔜 Coming Soon | HR Analytics Dashboard | Power BI, Python, SQL |
-| 🔜 Coming Soon | Workforce Attrition Predictor | Python, Excel |
-| 🔜 Coming Soon | People Data Visualisation | Power BI, SQL |
+| 🗂️ Project | 📌 Description | 🛠️ Tools |
+|:-----------|:--------------|:---------|
+| [🧩 DEI Workforce Analytics — SQL](https://github.com/samruddhispathak/dei-workforce-analytics-sql) | End-to-end SQL analysis of 10,000 employee DEI dataset across 4 phases — diversity, equity & inclusion scoring, CTE ranking, window functions & 7 key D&I findings | SQL · DataCamp DataLab |
+| [🚗 Vehicle Price Prediction — ML](https://github.com/samruddhispathak/vehicle-price-prediction) | Predictive modelling project comparing Linear Regression, Decision Tree, Random Forest, Neural Networks & KNN to estimate used car prices | Python · SPSS · Excel |
+| [📊 Wage EDA — Python](https://github.com/samruddhispathak/wage-eda-python) | Exploratory Data Analysis of a wage dataset — distributions, gender & race breakdowns, chi-square tests, t-tests, grouping & linear regression diagnostics | Python · Pandas · Seaborn · Statsmodels |
+| [📺 Digital Marketing Strategy — WRC](https://github.com/samruddhispathak/digital-marketing-wrc) | Full digital marketing strategy report for World Rally Championship — ENGAGE framework for WRC Gaming & SOSTAC framework for Rally.tv | Strategy · SimilarWeb · SWOT |
+| [🏎️ Second-Hand Car Market — Descriptive Analytics](https://github.com/samruddhispathak/secondhand-car-market-analytics) | Statistical analysis of 100 Aston Martin Vantage listings — ANOVA, t-tests, regression modelling & visualisation for used car price estimation | Excel · SPSS · Regression |
+
+</div>
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Learning & Building
 
 <div align="center">
 
-![Learning](https://img.shields.io/badge/🌱%20Currently%20Exploring-Predictive%20Modelling-A855F7?style=for-the-badge)
-![Learning](https://img.shields.io/badge/📊%20Deepening-Power%20BI%20%26%20DAX-F2C811?style=for-the-badge)
-![Learning](https://img.shields.io/badge/🐍%20Practicing-Python%20for%20HR%20Analytics-3776AB?style=for-the-badge)
+![Learning](https://img.shields.io/badge/🌱%20Deepening-HR%20%26%20People%20Analytics-A855F7?style=for-the-badge)
+![Learning](https://img.shields.io/badge/🐍%20Practising-Python%20EDA%20%26%20Regression-3776AB?style=for-the-badge)
+![Learning](https://img.shields.io/badge/🗄️%20Advancing-SQL%20%26%20DEI%20Analytics-4479A1?style=for-the-badge)
+![Learning](https://img.shields.io/badge/📊%20Building-Power%20BI%20Dashboards-F2C811?style=for-the-badge)
 
 </div>
 
