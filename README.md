@@ -9,15 +9,27 @@
 
 ---
 
-## 🙋‍♀️ About Me
+## 🙋‍♀️About Me
+
 <div align="center">
-🎓 Education📊 Focus🌍 Open ToMSc Business AnalyticsHR Analytics · Workforce AnalyticsUAE · Saudi Arabia · QatarAston University, BirminghamPredictive Modelling · Data Visualisation& across the Middle East
+
+| 🎓 Education | 📊 Focus | 🌍 Open To |
+|:---:|:---:|:---:|
+| MSc Business Analytics | HR Analytics · Workforce Analytics | UAE · Saudi Arabia · Qatar |
+| Aston University, Birmingham | Predictive Modelling · Data Visualisation | & across the Middle East |
+
 </div>
+
 <br/>
+
 <div align="center">
-🔥   Passionate about turning people data into strategic decisions   🔥
-🛠️   Exploring projects at the intersection of HR & Data Science
-🚀   Currently building my portfolio & sharpening my data skills
+
+🔥 &nbsp; **Passionate about** turning people data into strategic decisions &nbsp; 🔥
+
+🛠️ &nbsp; **Exploring** projects at the intersection of HR & Data Science
+
+🚀 &nbsp; **Currently** building my portfolio & sharpening my data skills
+
 </div>
 ```
 
