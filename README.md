@@ -31,7 +31,6 @@
 🚀 &nbsp; **Currently** building my portfolio & sharpening my data skills
 
 </div>
-```
 
 ---
 
