@@ -60,8 +60,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samruddhispathak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+username=samruddhispathak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samruddhispathak&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
@@ -80,11 +79,11 @@
 
 | 🗂️ Project | 📌 Description | 🛠️ Tools |
 |:-----------|:--------------|:---------|
-| [🧩 DEI Workforce Analytics — SQL](https://github.com/samruddhispathak/dei-workforce-analytics-sql) | End-to-end SQL analysis of 10,000 employee DEI dataset across 4 phases — diversity, equity & inclusion scoring, CTE ranking, window functions & 7 key D&I findings | SQL · DataCamp DataLab |
-| [🚗 Vehicle Price Prediction — ML](https://github.com/samruddhispathak/vehicle-price-prediction) | Predictive modelling project comparing Linear Regression, Decision Tree, Random Forest, Neural Networks & KNN to estimate used car prices | Python · SPSS · Excel |
-| [📊 Wage EDA — Python](https://github.com/samruddhispathak/wage-eda-python) | Exploratory Data Analysis of a wage dataset — distributions, gender & race breakdowns, chi-square tests, t-tests, grouping & linear regression diagnostics | Python · Pandas · Seaborn · Statsmodels |
-| [📺 Digital Marketing Strategy — WRC](https://github.com/samruddhispathak/digital-marketing-wrc) | Full digital marketing strategy report for World Rally Championship — ENGAGE framework for WRC Gaming & SOSTAC framework for Rally.tv | Strategy · SimilarWeb · SWOT |
-| [🏎️ Second-Hand Car Market — Descriptive Analytics](https://github.com/samruddhispathak/secondhand-car-market-analytics) | Statistical analysis of 100 Aston Martin Vantage listings — ANOVA, t-tests, regression modelling & visualisation for used car price estimation | Excel · SPSS · Regression |
+| [🧩 DEI Workforce Analytics - SQL](https://github.com/samruddhispathak/dei-workforce-analytics-sql) | End-to-end SQL analysis of 10,000 employee DEI dataset across 4 phases - diversity, equity & inclusion scoring, CTE ranking, window functions & 7 key D&I findings | SQL · DataCamp DataLab |
+| [🚗 Vehicle Price Prediction - ML](https://github.com/samruddhispathak/vehicle-price-prediction) | Predictive modelling project comparing Linear Regression, Decision Tree, Random Forest, Neural Networks & KNN to estimate used car prices | Python · SPSS · Excel |
+| [📊 Wage EDA - Python](https://github.com/samruddhispathak/wage-eda-python) | Exploratory Data Analysis of a wage dataset — distributions, gender & race breakdowns, chi-square tests, t-tests, grouping & linear regression diagnostics | Python · Pandas · Seaborn · Statsmodels |
+| [📺 Digital Marketing Strategy - WRC](https://github.com/samruddhispathak/digital-marketing-wrc) | Full digital marketing strategy report for World Rally Championship - ENGAGE framework for WRC Gaming & SOSTAC framework for Rally.tv | Strategy · SimilarWeb · SWOT |
+| [🏎️ Second-Hand Car Market - Descriptive Analytics](https://github.com/samruddhispathak/secondhand-car-market-analytics) | Statistical analysis of 100 Aston Martin Vantage listings — ANOVA, t-tests, regression modelling & visualisation for used car price estimation | Excel · SPSS · Regression |
 
 </div>
 
