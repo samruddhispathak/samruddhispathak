@@ -60,7 +60,6 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-username=samruddhispathak&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
